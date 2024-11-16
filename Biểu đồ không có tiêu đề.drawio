@@ -115,7 +115,7 @@
         <mxCell id="CZ4o81XTuQyuB41r4x81-41" value="&lt;div style=&quot;text-align: left;&quot;&gt;- Quét IP khả dụng&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Xác định PLC (quét MAC vendor, quét cổng xác định dịch vụ)&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Tạo kết nối đến proxy&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Chuyển tiếp gói tin (NAT in qua ethernet - out qua module sim)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="460" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CZ4o81XTuQyuB41r4x81-42" value="&lt;div style=&quot;text-align: left;&quot;&gt;- Quét IP khả dụng&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Xác định PLC (quét MAC vendor, quét cổng xác định dịch vụ)&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Tạo kết nối đến proxy&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- Chuyển tiếp gói tin (NAT in qua ethernet - out qua module sim)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CZ4o81XTuQyuB41r4x81-42" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="460" width="360" height="80" as="geometry" />
         </mxCell>
       </root>
