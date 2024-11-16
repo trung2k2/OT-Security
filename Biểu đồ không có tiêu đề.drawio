@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Trang-1" id="xIixTfaMFfqaKb3GjUdp">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,8 +106,11 @@
             <mxPoint x="450" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CZ4o81XTuQyuB41r4x81-38" value="IP tĩnh do nhà mạng cung cấp (dịch vụ sim 4G)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="443" y="450" width="80" height="80" as="geometry" />
+        <mxCell id="CZ4o81XTuQyuB41r4x81-39" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff5eb;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="414" y="440" width="405" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="CZ4o81XTuQyuB41r4x81-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff5eb;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-42.5" y="440" width="405" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
